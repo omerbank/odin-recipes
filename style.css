@@ -1,0 +1,20 @@
+* {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1,
+h2 {
+    background-color: lightpink;
+    color:beige;
+}
+
+a {
+    font-size: 20px
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
